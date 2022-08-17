@@ -1,0 +1,4 @@
+
+Today is Thursday.
+
+We are learning Git by watching video.
